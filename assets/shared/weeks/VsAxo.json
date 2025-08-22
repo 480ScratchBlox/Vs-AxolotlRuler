@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"drenched",
+			"axo",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "drenchedbg",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Vs. Axolotl Ruler",
+	"weekName": "Vs. AxolotlRuler",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
