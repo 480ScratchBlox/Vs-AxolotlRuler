@@ -28,17 +28,17 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 * Riveren - Main Artist/Animator of Psych Engine.
 
 <h4>Special Thanks</h4>
-* bbpanzu - Ex-Team Member (Programmer).
-* crowplexus - HScript Iris, Input System v3, and Other PRs.
-* Kamizeta - Creator of Pessy, Psych Engine's mascot.
-* MaxNeton - Loading Screen Easter Egg Artist/Animator.
-* Keoiki - Note Splash Animations and Latin Alphabet.
-* SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform.
-* EliteMasterEric - Runtime Shaders support and Other PRs.
-* MAJigsaw77 - .MP4 Video Loader Library (hxvlc).
-* iFlicky - Composer of Psync, Tea Time and some sound effects.
-* KadeDev - Fixed some issues on Chart Editor and Other PRs.
-* superpowers04 - LUA JIT Fork.
-* CheemsAndFriends - Creator of FlxAnimate.
-* Ezhalt - Pessy's Easter Egg Jingle.
-* MaliciousBunny - Video for the Final Update.
+bbpanzu - Ex-Team Member (Programmer).<br>
+crowplexus - HScript Iris, Input System v3, and Other PRs.<br>
+Kamizeta - Creator of Pessy, Psych Engine's mascot.<br>
+MaxNeton - Loading Screen Easter Egg Artist/Animator.<br>
+Keoiki - Note Splash Animations and Latin Alphabet.<br>
+SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform.<br>
+EliteMasterEric - Runtime Shaders support and Other PRs.<br>
+MAJigsaw77 - .MP4 Video Loader Library (hxvlc).<br>
+iFlicky - Composer of Psync, Tea Time and some sound effects.<br>
+KadeDev - Fixed some issues on Chart Editor and Other PRs.<br>
+superpowers04 - LUA JIT Fork.<br>
+CheemsAndFriends - Creator of FlxAnimate.<br>
+Ezhalt - Pessy's Easter Egg Jingle.<br>
+MaliciousBunny - Video for the Final Update.<br>
