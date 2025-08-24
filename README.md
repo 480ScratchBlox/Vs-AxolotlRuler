@@ -22,10 +22,10 @@ For this you can head over to [the wiki](https://shadowmario.github.io/psychengi
 There you can learn how to use the 212 PlayState funcions in your mod!
 
 <h2>Credits</h2>
-480sb - Almost Everything, Including Composing Drenched<br>Axolotl Ruler - Himself<br>Maniac Mania UGC - FNF Mic Model<br>Roy Glover
+480sb - Almost Everything, Including Composing Drenched<br>Axolotl Ruler - Himself<br>Maniac Mania UGC - FNF Mic Model<br>Roy Glover - Composer of MULE Theme
 <h3>Psych Engine Credits</h3>
-* Shadow Mario - Main Programmer and Head of Psych Engine.
-* Riveren - Main Artist/Animator of Psych Engine.
+Shadow Mario - Main Programmer and Head of Psych Engine.<br>
+Riveren - Main Artist/Animator of Psych Engine.<br>
 
 <h4>Special Thanks</h4>
 bbpanzu - Ex-Team Member (Programmer).<br>
