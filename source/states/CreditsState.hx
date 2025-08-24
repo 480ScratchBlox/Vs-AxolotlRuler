@@ -38,6 +38,15 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			["Vs Axolotl Ruler Credits"],
+			["480sb",		"Vs480Icon",		"Everything Else",					"https://youtube.com/@480sb?si=LS7vRlokpzfgg9dp",	"0024ff"],
+			["Axolotl Ruler",		"axo",		"Himself",					"https://youtube.com/@axolotl_ruler?si=jwLEzaiH3IMkj50z",	"6f6f6f"],
+			["Maniac Mania UGC",		"transparent",		"FNF Mic Model",					"https://www.roblox.com/communities/34227291/Maniac-Mania-UGC#!/about",	"FFFFFF"],
+			["Roy Glover",		"transparent",		"Original Composer of the MULE Theme",					"https://en.wikipedia.org/wiki/M.U.L.E.",	"FFFFFF"],
+			[""],
+			["Axolotl Ruler Discord"],
+			["Join the Axolotl Reef", "discord", "", "https://discord.gg/6gncR8umQn", "5165F6"],
+			[""],
 			["Psych Engine Team"],
 			["Shadow Mario",		"shadowmario",		"Main Programmer and Head of Psych Engine",					"https://ko-fi.com/shadowmario",	"444444"],
 			["Riveren",				"riveren",			"Main Artist/Animator of Psych Engine",						"https://x.com/riverennn",			"14967B"],
